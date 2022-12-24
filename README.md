@@ -1,18 +1,12 @@
 
 **Repository link**: https://github.com/nahid98/RushHour
 ------------
+<br>
 
 # Rush-hour
 ------------
 
-<div>
-
-</div>
-
 <br>
-
-----------------
-
 <br>
 
 <B>REQUIREMENTS</B>
